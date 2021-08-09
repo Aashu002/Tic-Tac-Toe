@@ -22,5 +22,4 @@ python tic_tac_toe.py
 
 <!-- ## Screenshots/Demo -->
 
-## Author
-[Erfan Saberi](https://github.com/erfansaberi)
+
